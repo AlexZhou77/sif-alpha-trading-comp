@@ -1,6 +1,6 @@
 ## Project Overview
 
-This Jupyter notebook contains the code my team developed for the 2024 Alpha Trading Competition, hosted by the Quant Team at the Smith Investment Fund, a student-run investment group at the University of Maryland. Our team placed first among five competing teams. We focused on two strategies: **Residual Momentum** and **Internal Bar Strength**. Both strategies were backtested using SIF's internal infrastructure, achieving cumulative returns of approximately 80% and 100%, respectively, over the period from January 1, 2010, to December 31, 2015.
+This Jupyter notebook contains the code my team developed for the 2024 Alpha Trading Competition, hosted by the Quant Team at the [Smith Investment Fund](https://www.smithinvestmentfund.com/). Our team placed first among five competing teams. We focused on two strategies: **Residual Momentum** and **Internal Bar Strength**. Both strategies were backtested using SIF's internal infrastructure, achieving cumulative returns of approximately 80% and 100%, respectively, over the period from January 1, 2010, to December 31, 2015.
 
 ## The Backtester
 
